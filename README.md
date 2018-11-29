@@ -6,8 +6,7 @@ Any recorded work by GSA or other contributors, will be considered a work of the
 
 ### CC0 1.0 Universal Summary
 
-This is a human-readable summary of the [Legal Code (read the full text)](https://creativecommons.org/publicdomain/zero/
-1.0/legalcode).
+This is a human-readable summary of the [Legal Code (read the full text)](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
 #### No Copyright
 
